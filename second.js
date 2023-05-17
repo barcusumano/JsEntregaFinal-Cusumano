@@ -1,4 +1,4 @@
-const ulRevisores = document.getElementById("teacher");
+const ulTeachers = document.getElementById("teacher");
 
 
 fetch("https://jsonplaceholder.typicode.com/users")

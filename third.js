@@ -21,7 +21,7 @@ logIn.addEventListener ("click", ()=>{
                 confirmButtonText: "Ok",
             })
             if(user === authorisedUser && password === authorisedPass){
-                 window.location.href = "index.html";
+                 window.location.href = "pages/courses.html";
              }
         }
     })
